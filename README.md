@@ -1,2 +1,2 @@
 # LiMITDGGAS
- LiMIT DGGAS project website
+ LiMIT DGGAS project website based on Jekyll
