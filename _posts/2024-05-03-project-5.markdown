@@ -1,0 +1,14 @@
+---
+layout: default
+title: Other Projects
+modal-id: 5
+date: 2024-05-03
+img: other_projects.png
+alt: image-alt
+project-date: May 2014
+client: Start Bootstrap
+category: Web Development
+---
+# Other Projects
+
+altri progetti qui

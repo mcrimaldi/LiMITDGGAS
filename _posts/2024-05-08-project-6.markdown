@@ -1,0 +1,14 @@
+---
+layout: default
+title: Project
+modal-id: 6
+date: 2024-05-08
+img: project.png
+alt: image-alt
+project-date: May 2014
+client: Start Bootstrap
+category: Web Development
+---
+# Project
+
+Descrizione del progetto qui

@@ -1,0 +1,37 @@
+---
+layout: default
+title: People
+modal-id: 1
+date: 2024-05-07
+img: people.png
+alt: image-alt
+project-date: May 2024
+client: Start Bootstrap
+category: Web Development
+---
+# test
+
+Use this space to describe the project 
+
+---
+Test blog
+
+'''
+fdsfdsfds
+'''
+
+---
+<table>
+    <tr>
+        <td>
+            <img src="/img/people_1.jpg" alt="Test people" style="width:300px;"> <!-- Resize as needed -->
+        </td>
+        <td>
+            Descrizione del contatto qui.
+        </td>
+    </tr>
+</table>
+---
+> asdad
+> parasahjdhjsa
+> djskaj

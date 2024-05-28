@@ -1,0 +1,14 @@
+---
+layout: default
+title: Events
+modal-id: 4
+date: 2024-05-04
+img: events.png
+alt: image-alt
+project-date: May 2014
+client: Start Bootstrap
+category: Web Development
+---
+# Events
+
+qui gli eventi
