@@ -6,8 +6,6 @@ date: 2024-05-06
 img: partners.png
 alt: image-alt
 project-date: May 2024
-client: Start Bootstrap
-category: Web Development
 ---
 # Partners
 
