@@ -17,7 +17,7 @@ category: Web Development
             <img src="/img/LZ.jpg" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
         </td>
         <td>
-            MSc in Agriculyural Sciences, PhD in Forage Science, is an assistant professor ad the Dept. of Veterinary Sciences of the University of Turin, Italy. Previously, she worked as a post-doc researcher and then as a research assisant at the Dept. of Agricultural Forest and Food Sciences od the same University. Her main research activities include soil organic matter turnover, manure management, nutrient losses from crop and forage syste, sustainability. She also works on the effect of agricultural practices on soil health, and in particular on soil hydrology and nutrient balance. She teaches Agronomy, Forage Science and Soil organic matter and nutrient management in agroecosystems.She authored 60 papers in the Scopus database (HI=25)
+            MSc in Agriculyural Sciences, PhD in Forage Science, is an assistant professor ad the Dept. of Veterinary Sciences of the University of Turin, Italy. Previously, she worked as a post-doc researcher and then as a research assisant at the Dept. of Agricultural Forest and Food Sciences od the same University. Her main research activities include soil organic matter turnover, manure management, nutrient losses from crop and forage syste, sustainability. She also works on the effect of agricultural practices on soil health, and in particular on soil hydrology and nutrient balance. She teaches Agronomy, Forage Science and Soil organic matter and nutrient management in agroecosystems. She authored 60 papers in the Scopus database (HI=25).
         </td>
     </tr>
 </table>
