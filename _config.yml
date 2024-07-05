@@ -85,7 +85,7 @@ scholar:
   order: descending
 
   source: ./_bibliography
-  bibliography: bibliography.bib
+  bibliography: bibliography_old.bib
   bibliography_template: "{{reference}}"
 
   replace_strings: true
