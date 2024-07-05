@@ -10,9 +10,6 @@ client: Start Bootstrap
 category: Web Development
 ---
 # Publications
-
-qui le pubblicazioni
-
-## Bibliografia
+---
 
 {% bibliography %}
