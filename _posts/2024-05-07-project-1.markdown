@@ -47,3 +47,94 @@ category: Web Development
         </td>
     </tr>
 </table>
+---
+### Elena Cervelli
+#### University of Naples Federico II, Department of Agricultural Sciences
+<table>
+    <tr>
+        <td>
+            <img src="/img/EC.png" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
+        </td>
+        <td>
+            Elena Cervelli, is a researcher tenure track, (art. 24 paragraph 3-b L. 240/10) of Rural Building and Landscape Planning at the Department of Agricultural Sciences, University of Naples Federico II. She holds a PhD in Landscape Planning and Sciences and a master’s degree in Architecture with honor. She participates in interdisciplinary groups and national and international competitive calls for research funds. She has extensive experience in research and teaching. Her main research interests include the study and application of methods, models and techniques of land and landscape analysis, Geographic Information Systems - GIS, landscape metrics, land use change scenarios building, environment impacts assessment, predictive models and multi-criteria assessment - MCDA, Ecosystem Services, land marginality conditions, seismic and erosion risk analysis and management, renewable sources siting support. She is the author of essays and scientific articles on the topics developed.
+        </td>
+    </tr>
+</table>
+---
+### Ester Scotto di Perta
+#### University of Naples Federico II, Department of Agricultural Sciences
+<table>
+    <tr>
+        <td>
+            <img src="/img/Ester.png" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
+        </td>
+        <td>
+            Ester Scotto di Perta is a researcher (art. 24 c.3-a L. 240/10) of Rural Construction and Agroforestry Territory [AGRI-04/C] at the Department of Agricultural Sciences of the University of Naples Federico II. After graduating with honours in Environmental Engineering at the University of Naples Federico II, she holds a PhD with honours in Plant and Animal Production Sciences at the University of Tuscia in Viterbo. Her research activity is carried out within the spoke 5 "Sustainable productivity and mitigation of environmental impact in animal productions" included in the "National Research Centre for Agricultural Technology - Agritech" funded by the European Union in connection with the NextGenerationUE initiative, and it focuses on the development of strategies for the optimisation of livestock manure management and its valorisation, through suitable treatments for the gaseous emissions mitigation. She is the author of 26 Scopus-indexed papers with 280 citations and an h-index of 10.
+        </td>
+    </tr>
+</table>
+---
+### Raffaele Grieco
+#### University of Bologna, Dept of Agri-Food Science and Technology (DISTAL)
+<table>
+    <tr>
+        <td>
+            <img src="/img/RG.jpg" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
+        </td>
+        <td>
+            PhD student at the University of Bologna, Dept. of Agricultural and Food Science and Technology. He earned his bachelor's degree in Agricultural, Forestry, and Environmental Sciences (2019) and a master's in Agricultural Sciences and Technologies (2021) from the University of Naples – Federico II. His master's thesis explored strategies for valorizing livestock manure and reducing its nitrogen content. Grieco's research aims to optimize livestock manure management to mitigate soil, air, and water pollution. He focuses on spatial analysis to assist farms and policymakers in reducing environmental impacts and identifying treatment sites and manure treatment systems for nutrient recovery, including methane production and ammonia stripping. He collaborates with local authorities and the University of Naples Federico II, contributing to scientific papers and conferences, aligning his work with the 2030 Agenda's sustainability goals.
+        </td>
+    </tr>
+</table>
+---
+### Alessandra Apostolico
+#### University of Naples Federico II, Department of Agricultural Sciences
+<table>
+    <tr>
+        <td>
+            <img src="/img/AP.png" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
+        </td>
+        <td>
+            Graduated in Precision Livestock Farming in December 2023 at the Dept. of Veterinary Medicine and Animal Production of the University of Naples Federico II, she is now a research assistant at the Department of Agricultural Science of the same University.Her research career began with her experimental thesis on the use of biochar in coverage to reduce ammonia emissions from buffalo manure digestate storage, followed by a curricular internship at KU Leuven in Belgium, focused on emissions from naturally ventilated dairy barns. Her area of ​​research concerns the management of livestock manure and their environmental impact, with particular attention to ammonia emissions, and currently collaborates on research activities on the study of gas emissions from naturally ventilated buffalo barns.
+        </td>
+    </tr>
+</table>
+---
+### Nunzio Fiorentino
+#### University of Naples Federico II, Department of Agricultural Sciences
+<table>
+    <tr>
+        <td>
+            <img src="/img/UNINA.png" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
+        </td>
+        <td>
+            TBD
+        </td>
+    </tr>
+</table>
+---
+### Lucia Ottaiano
+#### University of Naples Federico II, Department of Agricultural Sciences
+<table>
+    <tr>
+        <td>
+            <img src="/img/UNINA.png" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
+        </td>
+        <td>
+            TBD
+        </td>
+    </tr>
+</table>
+---
+### Anna Verde
+#### University of Naples Federico II, Department of Agricultural Sciences
+<table>
+    <tr>
+        <td>
+            <img src="/img/UNINA.png" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
+        </td>
+        <td>
+            TBD
+        </td>
+    </tr>
+</table>
