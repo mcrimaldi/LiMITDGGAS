@@ -22,3 +22,28 @@ category: Web Development
     </tr>
 </table>
 ---
+### Elio Dinuccio
+#### University of Turin - Dept. of Agricultural, Forest and Food Sciences
+<table>
+    <tr>
+        <td>
+            <img src="/img/ED.png" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
+        </td>
+        <td>
+            PhD in Agricultural and Enviromental Engineering, He is Associate Professor at the Departement of Agricultural, Forest and Food Sciences - University of Turin. He has expertise in agricutural engineering with special regards to mineral and organic fertilizers spreaders, manure and organic waste management, nutrients and energy valorisation. He has specific competences on bio-waste treatment technologies, optimisation of biogas plants (biomass supply chain and logistic, feedstocks pre-treatments, innovative biogas plant equipment, technical solutions for treatment and efficient management of digested slurry), particulate matter, ammonia and greenhouse gas emission measurament and abatement strategies, and precision agriculture. He teaches Energy systems and renewable energy, Smart farming syste design and evaluation, and Plants for livetsock farming. He authored 50 papers in the Scopus database (HI=16).
+        </td>
+    </tr>
+</table>
+---
+### Stefania Pindozzi
+#### University of Naples Federico II, Department of Agricultural Sciences
+<table>
+    <tr>
+        <td>
+            <img src="/img/SP.jpg" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
+        </td>
+        <td>
+            Stefania Pindozzi is an Associate Professor of Rural Building and Landscape Planning at the Department of Agricultural Sciences of the University of Naples Federico II. She holds a PhD in Science and Technologies for Environmental and Forest Management and a master’s degree in environmental Engineer with honour. She has extensive experience in research and teaching. Her main research interests include optimal manure-management strategies aimed towards a reduction in environmental impact; ammonia-emission assessment after animal-manure application to soil and inside the barn; land-use-change models; spatial multi-criteria decision analysis; ecological indicators; and energy crops' spatial allocation. She has organized special sessions and served as a guest editor for several scientific journals. Additionally, she has received research funding and led various projects/actions related to ammonia emissions reduction, water resources management, and agricultural soil remediation. She has co-authored numerous international papers and has a significant citation record in Scopus, Web of Science and Google Scholar databases.
+        </td>
+    </tr>
+</table>
