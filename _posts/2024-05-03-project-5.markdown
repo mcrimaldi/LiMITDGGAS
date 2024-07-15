@@ -10,5 +10,5 @@ client: Start Bootstrap
 category: Web Development
 ---
 # Other Projects
-
-altri progetti qui
+---
+TBD

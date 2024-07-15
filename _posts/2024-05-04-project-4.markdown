@@ -10,5 +10,5 @@ client: Start Bootstrap
 category: Web Development
 ---
 # Events
-
-qui gli eventi
+---
+TBD
