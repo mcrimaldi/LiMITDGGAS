@@ -9,6 +9,44 @@ project-date: May 2024
 client: Start Bootstrap
 category: Web Development
 ---
-## Partners
+## Institutional Partners
 
-qui i partner di progetto
+# University of Turin
+
+### Dept. of Agricultural, Forest and Food Sceinces and Dept. of Veterinary Sciences
+
+---
+
+<img title="" src="/img/UNITO.png" alt="" data-align="center" width="510">
+
+             The University of Turin, one of the most ancient and prestigious Italian universities, hosts almost 81,000 students and over 1,600  teachers. Ranked among the top 300 universities worldwide, it has presented over 560 projects in competitions, registered 44 patents, and produced 27,400 academic publications, promoting scientific advancement and fostering dialogue between science  and citizens. The university comprises 26 departments dedicated to research, teaching, and dissemination activities. 
+Further information is available at [www.en.unito.it](http://www.en.unito.it/).
+
+           Within this esteemed institution, the Department of Agricultural, Forest and Food Sciences (DISAFA) and the Department of Veterinary Sciences (DSV) collaborate closely to advance research and innovation in primary production, food processing, and veterinary sciences. DISAFA focuses on agricultural, forestry, and food systems, examining their biological, ecological, and production aspects, and addressing technological, economic-managerial, and biotechnological approaches to enhance their evolution and sustainability. DSV contributes its expertise in veterinary sciences, promoting animal, human, and environmental health through comprehensive research in clinical, livestock, and inspection disciplines. Together, these departments support interdisciplinary research and public engagement, aiming to ensure the safety and sustainability of food systems and animal products, while enhancing the overall well-being of society and the environment.
+
+# University of Naples Federico II
+
+### Dept. of Agricultural Sciences
+
+---
+
+<img title="" src="/img/UNINA.png" alt="" data-align="center" width="548">
+
+            The Univeristy of Naples, Federico II is the oldest public university in the world, dating back to 1224 and renowned for the very high qualification of its scientific and humanistic faculties, it is the largest research center in Southern Italy. It is divided into 3 centres, 13 faculties, 77 departments, 42 research and service centers and 2 botanical gardens. Further information is available at: www.unina.it
+
+            For research in the agri-food field in Italy the Department of Agriculture represents the point of reference. Thanks to the contribution of over 150 researchers belonging to more than 40 different disciplines, DIA research addresses the development needs of the agri-food supply chain as a whole, which can be integrated into research on the circular economy, precision agriculture, food innovation, environmental sustainability, biotechnology, bioremediation and climate change. All topics of extreme relevance and global impact, included in the operational trajectories of the 2030 Agenda for Sustainable Development, and strongly integrated into national (PNR) and European research plans (Horizon).
+
+            The Department boasts the presence of numerous researchers with a recognized international profile in their field and classified in the 2% Top Scientist Ranking of Stanford University and in the Top 1% - Highly Cited Researchers Clarivate. The latest evaluation of the quality of research assigns the DIA the national record for the area of ​​agricultural and veterinary sciences (first out of 35 departments), assigning it the highest score among the 350 best Departments of Italian state universities admitted to compete in the selection of 180 Departments of excellence for the five-year period 2023-2027.
+
+## Host Farm
+
+# Green Cycle System (GCS) by CF Energy Service S.r.l.
+
+---
+
+<img title="" src="/img/HostFarm.png" alt="" data-align="center" width="502">
+
+            The GCS developed by the CF Energy Service S.r.l., is aiming at integrating livestock manure treatment and the production of
+sterilized bio-based fertilizers. The plant is located in Capaccio (SA), a small town in the Salerno Province, where are reared more than 20000 buffalo heads for milk production. The plant is fed by three surroundings buffalo farms, connected by pipelines. The total daily processing capacity is of 20500 kg/day of different agricultural organic waste, divided between buffalo manure,  olive mill wastewater, dairy serum and other agricultural waste. 
+
+            The delivered by-products ferment anaerobically, producing biogas and thanks to a cogenerator, 250 kW of electricity and the same amount of thermal energy are produced, entirely reused by the company itself. Furthermore, the by-products, once anaerobically digested, are extracted and separated into a solid and a liquid phase, sterilized by eliminating any toxic bacterial load, aerobically composted, deammonified, and then fed to earthworms which, proceed to a new digestion, allow to obtain very high quality organic fertilizers (lumbricompost), capable of successfully tackling the problem of greenhouse desertification.
