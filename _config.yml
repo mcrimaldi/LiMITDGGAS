@@ -4,7 +4,7 @@ title_short: LiMIT DGGAS Project
 email: mariano.crimaldi@unina.it
 formspree: f/mrgndznb
 url: https://limitdggas.netlify.app
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Official istitutional site for Limit DGGAS research project."
 keywords: "Manure Treatment Strategies, GHG Emissions, Manure Management, Digestate, Nutrient Recovery, Crop Sustainability"
 skills: "Manure Treatment Strategies - GHG Emissions - Manure Management - Digestate - Nutrient Recovery - Crop Sustainability"
 meta_author: Crimaldi Mariano
@@ -42,7 +42,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: 
+    url:
   - title: facebook
     url:
 # - title: stack-overflow
@@ -59,7 +59,7 @@ address:
   - line: 80055 Portici (NA), Italy
 
 # Credits content
-credits: 'Proudly made by <a href="http://mcrimaldi.github.io">Mariano Crimaldi</a> with Jekyll. Theme by Freelancer open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. Hosted on Netlify'
+credits: 'Proudly made by <a href="http://mcrimaldi.github.io">Mariano Crimaldi</a> with Jekyll. Theme by Freelancer open source Bootstrap, theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. Hosted on Netlify'
 
 # Build settings
 markdown: kramdown
@@ -89,10 +89,10 @@ scholar:
   bibliography_template: "{{reference}}"
 
   replace_strings: true
-  join_strings:    true
+  join_strings: true
 
-  details_dir:    bibliography
+  details_dir: bibliography
   details_layout: bibtex.html
-  details_link:   Details
+  details_link: Details
 
   query: "@*"
