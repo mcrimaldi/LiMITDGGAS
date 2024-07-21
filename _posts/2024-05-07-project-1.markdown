@@ -118,10 +118,10 @@ category: Web Development
 <table>
     <tr>
         <td>
-            <img src="/img/UNINA.png" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
+            <img src="/img/LO.png" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
         </td>
         <td>
-            TBD
+            Lucia Ottaiano is a research assistant at the Department of Agricultural Sciences of the University of Naples Federico II. After graduating with honours in Agricultural Sciences and Technologies at the University of Naples Federico II, she received his PhD in "Development and management of agro-forestry resources". His main research interests include the evaluation of greenhouse gas emissions, especially nitrous oxide, from soil compared to the type of fertilizer. She also works testing biostimulant products of plant origin on various food crops to evaluate their effects on production and quality. She authored 53 papers in the Scopus database (HI = 16).
         </td>
     </tr>
 </table>
@@ -131,10 +131,10 @@ category: Web Development
 <table>
     <tr>
         <td>
-            <img src="/img/UNINA.png" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
+            <img src="/img/AV.png" alt="LauraZavattaro" style="width:300px;"> <!-- Resize as needed -->
         </td>
         <td>
-            TBD
+            She received her bachelor's degree (2021) in Agricultural, Environmental and Forestry Sciences and your master's degree (2022) in Agricultural Sciences and Technologies from the University of Naples Federico II, Department of Agriculture. From April to October (2023) she had a research grant at the Department of Agriculture, section of Microbiology, in the following area: "Characterisation and monitoring of the process of maceration in vats of hemp fibre through the evaluation of microbiological and qualitative data" rural development programme Campania region 2014/2020. Currently, she is a PhD student in Sustainable Agricultural and Forestry Systems and Food Security and her research is based on the valorisation of waste from various agri-food chains. In particular, she studies the mineralisation of nitrogen in soil fertilised with different types of compost from different raw materials.
         </td>
     </tr>
 </table>
