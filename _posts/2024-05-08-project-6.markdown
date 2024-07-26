@@ -19,11 +19,114 @@ Basing on the background presented, the objectives of this project are:
 
 - Evaluation of different treatment techniques for manure based digestate to improve the effectiveness of nutrient recovery
 - Assessment of fertilization efficiency of raw and treated effluents produced by the treatment plants
-- Monitoring of gaseous emissions (NH3, N2O, CH4 e CO2) along the treatment phases and after application of digestate to the soil
+- Monitoring of gaseous emissions (NH3, N2O, CH4 and CO2) along the treatment phases and after application of digestate to the soil
 - Providing of a dataset for the development of the ALFAM2 project ([https://projects.au.dk/alfam/](https://projects.au.dk/alfam/)) to improve comprehension and prediction of ammonia losses from field-applied digestate in the Mediterranean climate conditions.
 - Assessment of techno economic feasibility of the processes
 - Landscape analysis for the identification of high livestock density areas and spreading scenarios
 
-<div style="text-align: center;">
-    ![alt text](/img/projfig1.png)
-</div>
+![alt text](/img/projfig1.png)
+
+##### Fig.1 - Scheme of the approach adopted
+
+Each one of these objectives will be developed according to a proper methodology described in detail as follows:
+
+1. ### Treatment techniques for animal manure digestate: characterization of effluents and improvement of separation efficiency
+
+   Treatment strategies considered for the aim of the project, are adopted in two already existing plants for the treatment of livestock effluents, located in Piedmont and Campania region. Specifically, one treatment is based on a sorbent barrier made of zeolite, acting as a trap for nutrients, purifying the liquid fraction of the digestate. The second technology selected is based on ammonia stripping from the liquid fraction of the digestate, followed by an enrichment in NH4 of the solid digestate used as a filter for gas leaving the stripping tower. The enriched filter is used as a bulk agent for vermicompost. This system is patented as Green Cycle System (GCS). Both plants produce a fertilizer or amendment certified. Both the process will be analyzed as a whole, from digestate production to the agronomic utilization of the output materials. For each treatment step, energy requirement, nutrients mass balance, NH3 and GHG losses will be monitored, to evaluate the economic and environmental sustainability of the whole process. A more detailed description of the functioning of the two processes, and of the activities to develop are reported as follows.
+
+   #### 1.1 Implementing and assessment of an innovative full-scale prototype system based on zeolite as adsorbent (UniTO)
+
+   An existing prototype system for nutrient recovery from digestate will be implemented and tested at the biogas plant of the MAGIM – Società Cooperativa Agricola, a pig farm located in Racconigi, in the Cuneo Province. The farm rears 3,000 sows (weight 180 kg), 1,000 piglets (up to 3 months old and weight 30 kg), and 3,000 fattening pigs (weight 90 kg). The total utilized agricultural area is 500 ha, devoted to cereal (mainly maize) production. Since December 2012 a biogas plant with an installed capacity of 0.800 MWel has been operating at the farm. The biogas plant is mainly fed with pig manure (raw slurry, separated solid fraction of raw slurry)
+   and energy crops produced by the pig farm. An innovative digestate post-treatment system developed by E.S.E.A. Co.Lt., based on a two-stage solid/liquid separation unit combined with a zeolite filter unit (Figure 3) for digested liquid fraction nutrient recovery, has been recently installed to improve the overall sustainability of the anaerobic digestion system. Digestate from the biogas plant is separated with a screw press separator to obtain a solid (SF1) and a liquid (LF1) fraction.
+
+   A highly efficient separation device (e.g., decanter centrifuge) further separates the LF1, and the obtained supernatant (LF2) is then filtered through a specific zeolites bed characterized by high Cation-exchange capacity (C.E.C.).
+
+   The output products are:
+
+   - digested solid fraction from the screw press and from the decanter centrifuge, available for a composting process;
+   - digested liquid fraction (percolate) from the sorbent zeolite filter with a reduced nutrient content that can be spread to the field crops through fertigation;
+   - nutrient-enriched zeolite used for the industrial production of commercial organic or organo-mineral fertilizer.
+
+   The process is aimed at:
+
+   - reducing nutrient content of the processed manure, lowering the farm livestock rate
+   - facilitating the territorial re-equilibrium of manure nutrients load, through the delocalization of the commercial organic or organo-mineral fertilizer
+   - reducing NH3 and GHG emissions.
+
+   The efficiency of the system is determined by several parameters such as the type of used zeolite, operational parameters (eg., slurry flow rate) and chemical and physical characteristics (e.g., particle size and total solids content) of digestate, which can be very heterogeneous. An investigation conducted by DISAFA revealed frequent stops of the system, mainly due to operational problems (e.g., clogging) of the decanter centrifuge. Moreover, digestate centrifugation is a process requiring high capital costs and a high-power input. Therefore, An analysis of existing options will be carried out to identify an economical and reliable method for
+   digestate separation. Then, the efficacy of the system in recovering nutrients from digestate will be evaluated through the analyses of the physical and chemical characteristics (e.g., total solids – TS, total nitrogen - TN, total ammonia nitrogen - TAN, total phosphorus - TP, total potassium - TK, zinc – Zn, and copper – Cu) of the inlet and the output materials (both solid and liquid fractions) at each treatment step.
+
+   ![alt text](/img/projfig3.png)
+
+   ##### Fig.3 - Scheme of the prototype system based on zeolite as adsorbent
+
+   #### 1.2 Investigation of the efficiency of the Green Cycle System (GCS) technology (UniNA)
+
+   The GCS developed by the CF Energy Service S.r.l., is aiming at integrating livestock manure treatment and the production of sterilized bio-based fertilizers (Fig.2). The plant is located in Capaccio (SA), a small town in the Salerno Province, where are reared more than 20000 buffalo heads for milk production. The plant is fed by three surroundings buffalo farms, connected by pipelines. The total daily processing capacity is of 20500 kg/day of different agricultural organic waste, divided as follows: 78% buffalo manure, 12 % olive mill wastewater, 3% dairy serum, and 7% agricultural waste. The system is made up of an anaerobic digester of about 3600 m3, (with an installed capacity of 249 kWel) followed by a stripping tower and an open vermicomposting process of the digestate solid fraction. Specifically, the liquid digestate is forced into the stripping tower, where it is invested by the high temperature of exhaust gases from the combined heat and power (CHP) generator. The gases are conveyed and circulated from the bottom of the tower, while the liquid fraction of digestate is nebulized from the top. The ammonium is then extracted with a blower and the sucked flow is then conveyed into a biofilter where it meets the remaining solid fraction of the digestate.
+
+   ![alt text](/img/projfig2.png)
+
+   ##### Fig.2 - Scheme of the Green Cycle System
+
+   The biofilter retains the ammonia and converts it into organic nitrogen, and the high temperatures suppress pathogenic germs and weed seeds present in the solid fraction. The earthworm breeding produces a fertilizer rich in humic and fulvic acids, which can be used in organic agriculture. This type of treatment plant is not reported before in the scientific literature, for this reason, advantages and constraints of this promising approach are still unknown. From a previous assessment on different sampling points of the plant, some unexpected results were found such as the presence of torrefied material in the liquid stripped fraction that is worthy of investigation. To this purpose, the main characteristics (TS, VS, total N and TAN, total phosphorus - TP, total potassium - TK, zinc – Zn, and copper – Cu) of the influent and effluent materials will be monitored twice per month, for one year, in order to evaluate the treatment efficiency and characterize all the effluents of the plant. The effluents to be characterized and tested for agronomic utilization are the following:
+
+   - Raw digestate (immediately after the biodigester)
+   - Liquid fraction downstream of stripping tower with reduced nutrient content
+   - Solid fraction of the digestate
+   - Solid fraction after vermicomposting
+
+2. ### Assessment of fertilization efficiency of all the effluents of the treatment plants (UniTO and UniNA)
+
+   Activities to assess the agronomic value of the effluents (Subedi et al., 2016) will be carried out at mesocosm scale. A set of experiments in controlled or semi-controlled conditions will be performed at two sites, UNITO and UNINA. Treatments will include raw and treated digestates produced in the treatment plants, an unfertilized control, and a control treated with mineral fertilizers. The plant grown in optimal conditions will be used as a bio-indicator of the nutrient-use efficiency. Crop biomass production and nutrient uptake will be used to calculate standard nutrient use efficiency indicators. This finding will be used to evaluate the nutrient availability for the crop and to demonstrate the environmental and agronomic performance of improved digestate management chains. In detail, two sets of mesocosm experimental units will be arranged for soils with contrasting physico-chemical properties to compare different fertilization treatments (raw and processed liquid and solid manures for a total of at least 4 manures; mineral fertilization treatment, and unfertilised control as references). Parallel experiments will be set in the two units UNINA and UNITO. Italian Ryegrass (L. multiforum) (Figure 4), a key-crop of Italian forage-cropping systems, will be used as a bioindicator of nutrient availability.
+
+   The crop will be cut twice to assess also the medium-term fertilizer efficiency. Mesocosm will be grown in semi-controlled conditions to ensure a good crop status and growth. Fertilizers will be mixed with the mesocosm soil and Italian ryegrass will be sown, thus simulating a pre-sowing distribution followed by tillage. irrigation will be performed based on a simple water balance calculation and leaching will be measured or prevented. At least three replicates will be performed for each treatment. Soil texture analysis will be conducted using the Bouyoucos hydrometric method. Soil pH and EC will be measured on 1:2.5 and 1:5 soil (g) water (mL) suspensions, respectively. Soil nitrogen (total N) concentration will be assessed after mineralization with sulfuric acid (96%) in the presence of potassium sulfate and a low concentration of copper by the Kjeldahl method. Mineral N will be determined spectrophotometrically (FIAstar 5000 Analyzer, FOSS Analytical, Hillerød, Denmark) on soil extracts. Gas semi-permeable membrane method (ISO11732 procedure) will be carried out for NH4-N, while the sulphanilamide-naphtylethylendiamine dihydrochloride method will be carried out to analyze NO3 − after nitrate to nitrite reduction with a copper–cadmium column (ISO 13395 procedure). Soil P content will be measured according to the Olsen method while ammonium acetate method will be adopted for exchangeable K. Scheibler calcimeter will be used for determination of soil limestone content. Soil C will be measured according to the Walkley–Black method and reported as soil organic matter (SOM% = C% × 1.726). Plant dry tissues will be finely ground in an electric mill (Wiley mill-IKA, MF10.1, Staufen, Germany) for determination of the total N (Kjeldahl method). Total phosphorous in plant tissues will be determined by a colorimetry on the wet digested dry sample Plant N and P uptake will be estimated by multiplying dry biomass by nutrient concentration of plant tissues. A simplified N and P balance will be assessed as the difference between plant uptake and nutrient inputs supplied by fertilization. Plant nutrient uptake measured on the unfertilized control soils will be used to assess soil native availability of monitored nutrients, while soil NP variations and plant uptake on both fertilized/unfertilized soils will be involved in calculations of nutrient use efficiency according to Congreves et al. (2021).
+
+   ![alt text](/img/projimg4.png)
+
+   ##### Fig.4 - An example of mesocosm with Italian Ryegrass
+
+3. ### Measurement of emissions during the digestate processing, and from treatment effluents storage and field application
+
+   Gaseous emissions from digestate treatment plants, storage and field application of the treatment effluents will be measured according to different available techniques. For instance, two distinct situations will be identified:
+
+   1. emissions at treatment plant;
+   2. emissions after soil application of each effluent of treatment plant.
+
+   Static or dynamic chambers will be adopted in the first case while methods for measuring concentration in the air, transforming it into emissions with dispersion models, will be used together with chambers in the second case. For each individual situation, methodology will be described in the specific section.
+
+   #### 3.1 Measurements of emissions from full-scale prototype system based on zeolite as adsorbent (UNITO)
+
+   At biogas plant, ammonia and GHG emissions from all emitting sources (solid fractions from separation process, the sorbent zeolite filter, percolate from the sorbent zeolite filter) will be evaluated by using a set of wind tunnels (Balsari et al., 2007) coupled with a Photoacoustic analyzer (QEPAS). Each wind tunnel (Figure 5) consists of a fan, a hose, a mixing chamber, the tunnel body, pontoons made of stainless-steel pipes, an expansion chamber and a sampling point. Each trial will last for 3 months with at least 2 sampling a week.
+
+   ![alt text](/img/projimg5.png)
+
+   ##### Fig.5 - a wind tunnel system floated on a digested slurry tank
+
+   #### 3.2 Measurements of emissions from Green Cycle System (UniNA)
+
+   Measurements will be conducted both at laboratory and open field conditions, for different purposes. Specifically, laboratory tests will be implemented in order to quantify emissions of NH3, CH4 and N2O considering the storage conditions of the following materials:
+
+   1. liquid fraction of digestate downstream the stripping tower;
+   2. liquid fraction of digestate downstream the anaerobic digestion;
+   3. Solid fraction of digestate downstream the anaerobic digestion;
+   4. digestate downstream the anaerobic digestion.
+
+   For the purpose, dynamic chamber technique will be considered to measure NH3 emissions (Figure 6). With this procedure is possible to simulate both storage conditions and soil applications. The air sample will be analyzed using a gas-sensitive semiconductor and electrochemical sensors (Aeroqual, series 500) to detect the real-time NH3. The fluxes will be calculated from the airflow rate and concentrations value of the inlet and outlet. Vessels containing effluents to be tested will be positioned a climate-controlled room (2 m (H) 2,5 m (W) 2,5 m (L)) (Scotto di Perta et al., 2020). GHG will be measured by vented chamber described by Parkin and Venterea, 2010. Gaseous sampling at times 0, 20 and 40 min will be performed by inserting a polypropylene syringe into the chamber septa and slowly removing a gas sample. The sample can be stored directly in the syringe, before being analyzed in the gas chromatograph. Gaseous emissions will be then calculated according to Collier et al. (2014) and Parkin and Venterea (2010).
+
+   ![alt text](/img/projfig6.png)
+
+   ##### Fig.6 - Schematic of a dynamic chamber (a); a view of jars inside the climatic room (b); vented chamber (c)
+
+   Moreover, a low-cost acid traps-open chamber (Figure 7) introduced and calibrated by Araújo et al. (2009) will be used to measure NH3 emissions at treatment plant, during the enrichment of the solid fraction of digestate with exhaust gas from the stripping tower.
+
+   ![alt text](/img/projimg7.png)
+
+   ##### Fig.7 - Schematic of an open chamber for NH3 measurements (Jantalia et al., 2012)
+
+   #### 3.3 Open field ammonia emissions assessment after application to the soil of treatment plants effluents (UniNA and UniTO)
+
+   In order to provide a good dataset for ALFAM2 (<https://projects.au.dk/alfam/>) different techniques will be adopted. Ammonia emissions after application of the treatment effluents will be assessed applying a micrometeorological method, by means of passive ammonia samplers (alpha-samplers, Tang et al., 2018). This technique will be used to measure emissions from treatment plant effluents applied to the field. The number and position of the mast to be used (each with three passive samplers) will be defined according to the application. The backward Langrangian stochastic (bLS) dispersion model will be used to infer the total NH3 emission, using "WindTrax" software, described in detail in Flesch et al. (2004) and available at <http://www.thunderbeachscientific.com>. Ammonia emission after field applications will be measured using three wind tunnels (Scotto di Perta et al., 2016) already in the availability of UniNA, consisting of an open chamber placed on a rectangular area (0.32 m2), which simulate the wind action on a fertilized surface by means of a fan (Figure 8).
+
+   ![alt text](/img/projimg8.png)
+
+   ##### Fig.8 - Wind tunnels measuring ammonia emission from bare soil
