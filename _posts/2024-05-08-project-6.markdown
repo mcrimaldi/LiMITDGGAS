@@ -177,16 +177,18 @@ $$
 7. ### Expected results
 
    Expected results of the projects are:
-   1) reducing constraints of treatment strategies for recovering and valorizing nutrients from digestate;
-   2) Evaluating fertilization efficiency of treated digestate;
-   3) Estimation of NH3 e GHGs emissions from relevant phase of livestock manure digestate chain;
-   4) Providing of a dataset for the implementation of ALFAM model for the advancement of knowledge in comprehension and predicting ammonia loss from field-applied digestate in Mediterranean conditions interest;
-   5) Techno-economic analysis and territorial assessment of treatment strategies adopted and
-   6) a territorial scale analysis to support and integrate mitigation strategies.
+
+   1. reducing constraints of treatment strategies for recovering and valorizing nutrients from digestate;
+   2. Evaluating fertilization efficiency of treated digestate;
+   3. Estimation of NH3 e GHGs emissions from relevant phase of livestock manure digestate chain;
+   4. Providing of a dataset for the implementation of ALFAM model for the advancement of knowledge in comprehension and predicting ammonia loss from field-applied digestate in Mediterranean conditions interest;
+   5. Techno-economic analysis and territorial assessment of treatment strategies adopted and
+   6. a territorial scale analysis to support and integrate mitigation strategies.
 
 8. ### Dissemination activities
 
    Dissemination of the project results will be ensured through the following actions:
+   
    * The production of specific technical materials (technical papers, factsheets, videos...)
    * the organization of specific events (webinars, online seminars, field days...)
    * Publication of scientific papers in open access journals
