@@ -130,3 +130,63 @@ Each one of these objectives will be developed according to a proper methodology
    ![alt text](/img/projimg8.png)
 
    ##### Fig.8 - Wind tunnels measuring ammonia emission from bare soil
+
+   #### 3.4 Open field GHG emissions assessment after application to the soil of treatment plants effluents (UNITO)
+
+   Field scale experiments will be carried out on plots of about 700 m2 each, via a closed static chamber method (Figure 9) according to Bertora et al. (2018). The technique provides for the insertion of a steel anchor (15 cm depth) into the soil, to isolate a soil column preventing lateral gas diffusion. The anchors remain inserted into the soil for the whole growing season. For each measurement point the chamber will be covered with a sealed and isolated steel lid. Three air samples will be taken from the chamber via a plastic syringe, at 0, 10 and 20 minutes from chamber closure, then transferred into glass vials to be analysed by gas chromatography for CO2, CH4, and N2O concentration. The gas accumulation pattern will be used to calculate GHG soil flux over time.
+
+   ![alt text](/img/projimg9.png)
+
+   ##### Fig.9 - Closed chamber system for field GHG emissions measurement
+
+4. ### Providing of a dataset for the development of the ALFAM2 project (UNINA and UniTO)
+
+   In order to provide a dataset for the development of the ALFAM2 project (<https://projects.au.dk/alfam/>) for comprehension and predicting ammonia loss from field-applied manure in different environmental conditions and manure of various animal species, field experimental trials will be carried out, using treatment plants effluents. Specifically, NH3 emissions will be measured with different techniques (chambers and  micrometeorological methods), together with soil and fertilizers characteristics and weather conditions. Dataset will be organized according to recommendations listed at section 3.5 of Hafner et al. (2018)
+
+5. ### Assessment of techno economic feasibility of the processes
+
+   To analyze the economic feasibility of the two hypotheses of digestate treatment system, costs and revenues components will be evaluated. The investment and operating costs will be discussed, based on plant operators’ data as well as on the market analysis for costs evaluation. In order to compare the two hypotheses, the Net Present Value (NPV) and the internal rate of return are used as valuation criteria (Scotto di Perta et al., 2019). Specifically, NPV is the sum of the expected net cash flows measured in today’s currency (Gebrezgabher et al., 2010) (Eq 1):
+$$
+\displaystyle NPV=-CC+\sum_{t=0}^n \frac{CF_t}{(1+r)^t}
+$$
+
+   where CC is the initial capital cost, r is the discount factor and CF is the expected cash flow at time t. Generally, CF is a function of incomes related to the different systems and operating costs. The income per year is given by Equation 2:
+
+$$
+\displaystyle INCOME_0=[(T_e*EP)*365]
+$$
+
+   where TE is the price of the sale of electricity produced and EP (kWh d–1) is the electrical power produced per hour.
+
+6. ### Landscape Analisys
+
+   Starting from the awareness that the effects of livestock farming are not limited to the field scale, a territorial scale analysis will be performed to support and integrate mitigation strategies (Cervelli et al., 2021). The work will entail three main steps:
+
+   1.  First step is the building of the landscape “Demand” corresponding to the quantification of nitrogen applied to the field, derived from the consistency and composition of the herds in the study area.
+
+   2. “Focus Area” (FA) identification. The FAs are the hotspots with the highest concentration of nitrogen in the field.
+
+   3. Landscape “Offer” creation, that is the identification of suitable areas for manure treatment plants or slurry spreading activities. A scenario-based Spatial-MultiCriteria Decision Analysis process (Figure 10) will be developed, supported by the panel of experts’ opinions (compared to those of different types of stakeholders), in order to identify the areas suitable for collective treatment plants and for spreading activities.
+
+   ![alt text](/img/projimg10.png)
+
+   ##### Fig.10 - Spatial-MultiCriteria Decision analysis process
+
+7. ### Expected results
+
+   Expected results of the projects are:
+   1) reducing constraints of treatment strategies for recovering and valorizing nutrients from digestate;
+   2) Evaluating fertilization efficiency of treated digestate;
+   3) Estimation of NH3 e GHGs emissions from relevant phase of livestock manure digestate chain;
+   4) Providing of a dataset for the implementation of ALFAM model for the advancement of knowledge in comprehension and predicting ammonia loss from field-applied digestate in Mediterranean conditions interest;
+   5) Techno-economic analysis and territorial assessment of treatment strategies adopted and
+   6) a territorial scale analysis to support and integrate mitigation strategies.
+
+8. ### Dissemination activities
+
+   Dissemination of the project results will be ensured through the following actions:
+   * The production of specific technical materials (technical papers, factsheets, videos...)
+   * the organization of specific events (webinars, online seminars, field days...)
+   * Publication of scientific papers in open access journals
+   
+   The aim is to maximize the scientific impact and the visibility of the project, promoting constant and open debate on project’s contents and results. Dissemination will include scheduled internal meetings among partners to carry on the experimental trials, to define a common communication strategy (logo, template, website, social network profiles, etc.). The internal meetings will be helpful in increasing the multidisciplinary collaborations among partners, in interconnecting their research schemes and in involving the young researchers in the project network and tasks. Regarding the external dissemination, publications in open access scientific peer reviewed journals will be carried out for valorizing at best the achieved results at a scientific level (university, research centers, etc.). Stakeholders, researchers, and students will be invited to seminars and/or workshops to transfer knowledge and foster the debate on project’s scope. Moreover, webinars will be organized to enhance the visibility of the sharing tools developed in the project (e.g., the web app for real time emission presentation). Events will be organized in technical secondary schools as well. The aims of such events will include providing a comprehensive view of the project and of its technical benefits for both farmers and society, improving knowledge on the key aspects investigated in this project and promoting discussion among stakeholders and researchers to have a bottom-up view on the tool’s capabilities and application.
