@@ -19,12 +19,12 @@ category: Web Development
 The project will benefit the cooperation of a group of scientists from different field of expertise, with different approaches and methodology trying to overcome current constraints of manure based digestate chain.
 Basing on the background presented, the objectives of this project are:
 
-- Evaluation of different treatment techniques for manure based digestate to improve the effectiveness of nutrient recovery
-- Assessment of fertilization efficiency of raw and treated effluents produced by the treatment plants
-- Monitoring of gaseous emissions (NH3, N2O, CH4 and CO2) along the treatment phases and after application of digestate to the soil
-- Providing of a dataset for the development of the ALFAM2 project ([https://projects.au.dk/alfam/](https://projects.au.dk/alfam/)) to improve comprehension and prediction of ammonia losses from field-applied digestate in the Mediterranean climate conditions.
-- Assessment of techno economic feasibility of the processes
-- Landscape analysis for the identification of high livestock density areas and spreading scenarios
+* Evaluation of different treatment techniques for manure based digestate to improve the effectiveness of nutrient recovery
+* Assessment of fertilization efficiency of raw and treated effluents produced by the treatment plants
+* Monitoring of gaseous emissions (NH3, N2O, CH4 and CO2) along the treatment phases and after application of digestate to the soil
+* Providing of a dataset for the development of the ALFAM2 project ([https://projects.au.dk/alfam/](https://projects.au.dk/alfam/)) to improve comprehension and prediction of ammonia losses from field-applied digestate in the Mediterranean climate conditions.
+* Assessment of techno economic feasibility of the processes
+* Landscape analysis for the identification of high livestock density areas and spreading scenarios
 
 ![alt text](/img/projfig1.png)
 
