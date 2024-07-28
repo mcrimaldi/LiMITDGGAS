@@ -13,6 +13,8 @@ category: Web Development
 # Project
 
 ---
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 
 The project will benefit the cooperation of a group of scientists from different field of expertise, with different approaches and methodology trying to overcome current constraints of manure based digestate chain.
 Basing on the background presented, the objectives of this project are:
@@ -188,5 +190,5 @@ $$
    * The production of specific technical materials (technical papers, factsheets, videos...)
    * the organization of specific events (webinars, online seminars, field days...)
    * Publication of scientific papers in open access journals
-   
+
    The aim is to maximize the scientific impact and the visibility of the project, promoting constant and open debate on project’s contents and results. Dissemination will include scheduled internal meetings among partners to carry on the experimental trials, to define a common communication strategy (logo, template, website, social network profiles, etc.). The internal meetings will be helpful in increasing the multidisciplinary collaborations among partners, in interconnecting their research schemes and in involving the young researchers in the project network and tasks. Regarding the external dissemination, publications in open access scientific peer reviewed journals will be carried out for valorizing at best the achieved results at a scientific level (university, research centers, etc.). Stakeholders, researchers, and students will be invited to seminars and/or workshops to transfer knowledge and foster the debate on project’s scope. Moreover, webinars will be organized to enhance the visibility of the sharing tools developed in the project (e.g., the web app for real time emission presentation). Events will be organized in technical secondary schools as well. The aims of such events will include providing a comprehensive view of the project and of its technical benefits for both farmers and society, improving knowledge on the key aspects investigated in this project and promoting discussion among stakeholders and researchers to have a bottom-up view on the tool’s capabilities and application.
