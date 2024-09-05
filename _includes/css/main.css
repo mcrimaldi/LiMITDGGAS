@@ -538,3 +538,46 @@ footer .footer-below {
         padding-top: 50px;
     }
 }
+
+/* Intro text styles */
+.intro-text {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.intro-text .name {
+    font-size: 50px;
+    font-weight: 700;
+    display: block;
+}
+
+.intro-text .skills {
+    font-size: 1.25em;
+    font-weight: 300;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.intro-text .star-light {
+    border-color: #fff;
+}
+
+@media(max-width: 768px) {
+    .intro-text .name {
+        font-size: 40px;
+    }
+    
+    .intro-text .skills {
+        font-size: 1.15em;
+    }
+}
+
+@media(max-width: 480px) {
+    .intro-text .name {
+        font-size: 30px;
+    }
+    
+    .intro-text .skills {
+        font-size: 1em;
+    }
+}
