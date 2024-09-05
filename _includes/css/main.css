@@ -482,3 +482,32 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* Footer logo styles */
+.footer-above .logo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0 -15px;
+}
+
+.footer-above .logo-item {
+    flex: 0 0 33.333%;
+    max-width: 33.333%;
+    padding: 15px;
+    text-align: center;
+}
+
+.footer-above .logo-item img {
+    max-height: 100px;
+    width: auto;
+    margin: 0 auto;
+}
+
+@media(max-width:767px) {
+    .footer-above .logo-item {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
