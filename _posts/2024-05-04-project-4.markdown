@@ -9,6 +9,11 @@ project-date: May 2014
 client: Start Bootstrap
 category: Web Development
 ---
-# Events
+
+## 9 - 12 September 2024
+
 ---
-TBD
+
+### 11th European Conference on Precision Livestock Farming - Bologna, Italy
+
+<img title="" src="/img/PLFSept2024.jpg" alt="" data-align="center" width="548">
